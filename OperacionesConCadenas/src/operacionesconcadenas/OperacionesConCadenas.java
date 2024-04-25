@@ -41,7 +41,7 @@ public class OperacionesConCadenas {
         
         String n = "Miqueas";
         String a = "Vilcatoma";
-        int e = 50;
+        int e = 0;
         
         String mensaje = String.format("Mi nombre es %s, mi apellido es %s y tengo %d anios",n ,a, e);
         System.out.println(mensaje);
